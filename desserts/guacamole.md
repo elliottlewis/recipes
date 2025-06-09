@@ -4,5 +4,4 @@
 * lime
 * salt
 ## Instructions
-put one avocado in a bowl
-
+Cut avocado in half, and put it in a bowl
